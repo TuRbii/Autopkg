@@ -14,10 +14,8 @@
 		<string>%NAME%-update-smart</string>
 		<key>GROUP_TEMPLATE</key>
 		<string>SmartGroupTemplate.xml</string>
-		<key>LOCALE</key>
-		<string>en_US</string>
 		<key>NAME</key>
-		<string>Firefox</string>
+		<string>CricutDesignSpace</string>
 		<key>POLICY_CATEGORY</key>
 		<string>Cricut Design Space</string>
 		<key>POLICY_TEMPLATE</key>
