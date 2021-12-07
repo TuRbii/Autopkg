@@ -12,14 +12,12 @@
 	<string>Software</string>
 	<key>GROUP_NAME</key>
 	<string>%NAME%</string>
-	<key>GROUP_TEMPLATE</key>
-	<string>PolicyTemplate-selfservice.xml</string>
 	<key>NAME</key>
 	<string>CricutDesignSpace</string>
 	<key>POLICY_CATEGORY</key>
 	<string>Cricut Design Space</string>
 	<key>POLICY_TEMPLATE</key>
-	<string>PolicyTemplate.xml</string>
+	<string>PolicyTemplate-selfservice.xml</string>
 	<key>RELEASE</key>
 	<string>latest</string>
 	<key>SELF_SERVICE_DESCRIPTION</key>
