@@ -12,6 +12,8 @@
 	<string>Software</string>
 	<key>GROUP_NAME</key>
 	<string>%NAME%</string>
+	<key>GROUP_TEMPLATE</key>
+	<string></string>
 	<key>NAME</key>
 	<string>CricutDesignSpace</string>
 	<key>POLICY_CATEGORY</key>
