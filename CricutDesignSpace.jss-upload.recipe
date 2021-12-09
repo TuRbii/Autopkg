@@ -17,7 +17,7 @@
 	<key>NAME</key>
 	<string>CricutDesignSpace</string>
 	<key>POLICY_CATEGORY</key>
-	<string>Cricut Design Space</string>
+	<string>Software</string>
 	<key>POLICY_TEMPLATE</key>
 	<string>PolicyTemplate-selfservice.xml</string>
 	<key>RELEASE</key>
